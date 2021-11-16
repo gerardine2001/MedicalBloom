@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000167435130",
+    "project_id": "medicalbloom-72ccc",
+    "storage_bucket": "medicalbloom-72ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000167435130:android:526183475f8d8d3675c4c3",
+        "android_client_info": {
+          "package_name": "com.example.medicalbloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000167435130-im6nrgeu4veto8li2bek2jh3kajdjcgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfJyNkWCee1iW1I804FSzsVXrqbAgtRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000167435130-im6nrgeu4veto8li2bek2jh3kajdjcgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
